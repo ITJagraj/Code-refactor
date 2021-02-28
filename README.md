@@ -1,4 +1,6 @@
 # code-refactor
+
+## Purpose
 Doing a couple of changes in the website to make it more accessible for search engines
 
 Consolidated class name from .benefits-lead, .benefits-brand, .benefit.cost to .benefit
@@ -7,9 +9,10 @@ Replaced a section tag with div tag to avoid using multiple classes
 Added alt tags to describe the images
 Added div id in search- engine-optimization
 
-Built With
+## Built With
 HTML
 CSS
 
-#Website
+
+## Website 
 https://itjagraj.github.io/Code-refactor/
